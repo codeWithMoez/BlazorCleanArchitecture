@@ -11,8 +11,7 @@
 *.sln.docstates
 .gitignore
 
-# appsettings.json
-*appsettings.json
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -364,3 +363,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+## Ignore appsettings.json
+appsettings.json
