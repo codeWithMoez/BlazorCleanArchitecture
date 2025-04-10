@@ -42,7 +42,7 @@ The project follows the Clean Architecture pattern, organized into four main lay
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blazor-clean-architecture.git
+   git clone https://github.com/codeWithMoez/blazor-clean-architecture.git
    ```
 
 2. Open the solution in Visual Studio 2022.
